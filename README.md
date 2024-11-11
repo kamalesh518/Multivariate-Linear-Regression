@@ -23,8 +23,8 @@ Print the parameters of the linear function. End the program.
 ## Program:
 ```
 
-Developed by: Mohamed Faizal M
-Reg.No: 24000006
+Developed by: Kamalesh y
+Reg.No: 24004024
 import pandas as pd
 from sklearn import linear_model
 df = pd.read_csv("carsemission.csv")
